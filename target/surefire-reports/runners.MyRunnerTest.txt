@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: runners.MyRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 26.14 s <<< FAILURE! -- in runners.MyRunnerTest
+Login scenarios.Login with invalid username -- Time elapsed: 25.39 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Username and password do not match any user in this service.]> but was:<[Error]>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at stepdef.LoginStepDef.loginShouldFailWithError(LoginStepDef.java:33)
+	at ✽.login should fail with error "Error"(file:///C:/Users/OPTIPLEX%203040/eclipse-workspace/appiumCucumberFramework/src/test/resources/Login.feature:9)
+

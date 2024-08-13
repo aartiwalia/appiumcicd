@@ -1,0 +1,16 @@
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\pages\BasePage.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\pages\LoginPage.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\pages\MenuPage.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\pages\ProductDetailsPage.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\pages\ProductsPage.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\pages\SettingsPage.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\runners\MyRunnerTest.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\stepdef\Hooks.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\stepdef\LoginStepDef.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\stepdef\ProductStepDef.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\utils\CapabilitiesManager.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\utils\DriverManager.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\utils\GlobalParams.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\utils\PropertyManager.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\utils\ServerManager.java
+C:\Users\OPTIPLEX 3040\eclipse-workspace\appiumCucumberFramework\src\test\java\utils\TestUtils.java
